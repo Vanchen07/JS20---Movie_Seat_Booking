@@ -14,3 +14,4 @@ using perspective property
 use + to convert string to integer
 
 using toggle on classlist adds and removes on click instead of having to use add and remove classes
+converts nodelist into an array using [...nodeList]
